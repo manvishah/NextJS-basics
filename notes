@@ -1,0 +1,14 @@
+Next JS:
+
+- react framework for produuction
+-package uses  react for building user interfaces
+- simplifies the process of building react application
+
+1.File based routing
+2.Pre-rendering
+3.API routes
+4.Support for CSS modules
+5.Authentication
+6.Dev and Prod build system
+
+-for creating project ---> npx create-next-app basics
